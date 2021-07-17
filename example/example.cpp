@@ -1,5 +1,5 @@
 #include <iostream>   //including a library that will let is work with io objects
-#include "../lvCpp.h" //including library header file so now we can use it's objects like drawLVChar
+#include "../lvCpp.h" //including library header file so now we can use it's objects like drawLVChar function
 
 using namespace std;
 
