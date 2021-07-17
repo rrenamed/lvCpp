@@ -22,8 +22,6 @@ namespace lvCpp{
                 wprintf(charsLV[i]);
                 break;
             }
-            else
-                continue;
         }
         _setmode(_fileno(stdout), _O_TEXT);
     }
